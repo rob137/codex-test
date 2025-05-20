@@ -10,6 +10,12 @@ print `Hello, World!`.
 python hello.py
 ```
 
+You can optionally provide a name:
+
+```
+python hello.py --name Alice
+```
+
 ## Testing
 
 The project uses the built-in `unittest` module. To run the tests:
