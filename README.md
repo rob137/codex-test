@@ -25,3 +25,7 @@ The project uses the built-in `unittest` module. To run the tests:
 ```
 python -m unittest discover -s tests
 ```
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
